@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1078544158963",
+    "firebase_url": "https://callingapp-c5c80.firebaseio.com",
+    "project_id": "callingapp-c5c80",
+    "storage_bucket": "callingapp-c5c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078544158963:android:8b138e04c550cc2dcae786",
+        "android_client_info": {
+          "package_name": "com.callapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKDxy8TeRddDga3ZofNHVP9HGb3rIPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078544158963:android:a966fc3139084283cae786",
+        "android_client_info": {
+          "package_name": "com.joviapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKDxy8TeRddDga3ZofNHVP9HGb3rIPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078544158963:android:aafa8564d2d0bb89cae786",
+        "android_client_info": {
+          "package_name": "com.mudassir.callApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKDxy8TeRddDga3ZofNHVP9HGb3rIPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078544158963:android:0d7d3aa039bd35eacae786",
+        "android_client_info": {
+          "package_name": "com.voximplantdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKDxy8TeRddDga3ZofNHVP9HGb3rIPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078544158963-ee15i2m42dppsmbjculv8qil2r2ga9f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
